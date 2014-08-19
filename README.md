@@ -28,6 +28,7 @@
 
 
 Copyright and license
+---------------------
 
 Copyright 2013 DianPing, Inc.
 
